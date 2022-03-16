@@ -1,2 +1,2 @@
-# Calcular el dígito de verificación Dian
+# Calcular el dígito de verificación Dian en PYTHON
 Calcula el dígito de verificación DIAN Colombia
